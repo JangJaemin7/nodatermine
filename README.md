@@ -1,2 +1,1 @@
 # nodatermine
-과제
